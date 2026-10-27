@@ -1,0 +1,690 @@
+[
+  {
+    "id": "brasil",
+    "name": "Brasil",
+    "flag": "🇧🇷",
+    "capital": "Brasília",
+    "language": "Português (idioma oficial). Também são faladas muitas línguas indígenas e línguas de comunidades de imigração.",
+    "history": [
+      "Antes da colonização portuguesa, o território era habitado por numerosos povos indígenas, com diferentes línguas e organizações sociais.",
+      "A chegada portuguesa ocorreu em 1500; a colonização envolveu a exploração do território e a escravização de indígenas e africanos.",
+      "A independência foi proclamada em 1822 e a República foi instaurada em 1889.",
+      "A cultura brasileira foi formada por contribuições indígenas, africanas, europeias, asiáticas e de muitos outros grupos, com diferenças marcantes entre regiões."
+    ],
+    "indigenous_peoples": [
+      "Tikúna, um dos povos indígenas com maior população no país",
+      "Guarani, presente em diferentes regiões e com vários subgrupos",
+      "Yanomami, que vive principalmente na região amazônica",
+      "Kaingang, povo indígena presente sobretudo no Sul do Brasil"
+    ],
+    "gastronomy": [
+      "Feijoada, preparada com feijão e carnes e associada à culinária brasileira",
+      "Pão de queijo, tradicional em Minas Gerais",
+      "Tacacá, prato amazônico feito geralmente com tucupi, goma de tapioca, jambu e camarão",
+      "Moqueca, com versões regionais distintas, como as preparadas na Bahia e no Espírito Santo"
+    ],
+    "sports": [
+      "Futebol, modalidade de grande popularidade nacional",
+      "Voleibol, com tradição em competições nacionais e internacionais",
+      "Basquete, praticado em clubes e escolas",
+      "Capoeira, prática afro-brasileira que combina luta, música, canto e movimento corporal"
+    ],
+    "music": [
+      "Samba, gênero com fortes raízes afro-brasileiras",
+      "Forró, conjunto de estilos musicais associado especialmente ao Nordeste",
+      "Bossa nova, movimento musical surgido no Rio de Janeiro no século XX",
+      "Carimbó, manifestação musical e dançante ligada ao Pará"
+    ],
+    "dances": [
+      "Frevo, manifestação de música e dança associada ao Carnaval de Recife e Olinda",
+      "Samba de roda, tradição musical e dançante do Recôncavo Baiano",
+      "Carimbó, dança de roda tradicional do Pará",
+      "Jongo, manifestação afro-brasileira presente em comunidades do Sudeste"
+    ],
+    "sources": [
+      {
+        "title": "IBGE — O Brasil Indígena: etnias e línguas",
+        "url": "https://www.ibge.gov.br/brasil-indigena/"
+      },
+      {
+        "title": "UNESCO — Patrimônio Cultural Imaterial do Brasil",
+        "url": "https://ich.unesco.org/en/state/brazil-BR"
+      },
+      {
+        "title": "Constituição da República Federativa do Brasil, art. 13 (idioma oficial)",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm"
+      }
+    ]
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "flag": "🇦🇷",
+    "capital": "Buenos Aires",
+    "language": "Espanhol (língua predominante); também são faladas línguas indígenas e línguas de comunidades de imigração.",
+    "history": [
+      "Antes da colonização europeia, a região era habitada por diferentes povos indígenas, entre eles grupos Guarani, Mapuche e Qom.",
+      "A Espanha colonizou a região e Buenos Aires tornou-se um importante centro portuário e administrativo.",
+      "A Revolução de Maio ocorreu em 1810 e a independência foi declarada em 9 de julho de 1816.",
+      "A Argentina recebeu grandes ondas de imigração, sobretudo europeia, nos séculos XIX e XX; o país voltou ao regime democrático em 1983 após a ditadura militar."
+    ],
+    "indigenous_peoples": [
+      "Mapuche, especialmente nas regiões andinas e patagônicas",
+      "Qom (também chamados Toba), sobretudo no norte do país",
+      "Wichí, principalmente no Chaco argentino",
+      "Guarani, presente no nordeste e em outras áreas"
+    ],
+    "gastronomy": [
+      "Asado, churrasco preparado em grelha ou fogo",
+      "Empanadas, pastéis recheados com variações regionais",
+      "Locro, ensopado tradicional feito com milho e outros ingredientes",
+      "Dulce de leche e mate, muito presentes nos hábitos alimentares do país"
+    ],
+    "sports": [
+      "Futebol, um dos esportes mais populares do país",
+      "Rúgbi, praticado em clubes e competições nacionais",
+      "Hóquei sobre a grama, com tradição competitiva importante",
+      "Pato, esporte equestre tradicional argentino"
+    ],
+    "music": [
+      "Tango, tradição musical urbana associada a Buenos Aires e à região do Rio da Prata",
+      "Chamamé, gênero musical tradicional do nordeste argentino",
+      "Folclore argentino, com estilos regionais como zamba e chacarera",
+      "Cuarteto, gênero popular associado à cidade de Córdoba"
+    ],
+    "dances": [
+      "Tango, dança de casal ligada à região de Buenos Aires e Montevidéu",
+      "Chacarera, dança folclórica especialmente associada ao noroeste e centro do país",
+      "Malambo, dança tradicional masculina dos pampas, com sapateado rítmico",
+      "Zamba, dança folclórica de casal"
+    ],
+    "sources": [
+      {
+        "title": "UNESCO — Tango (Argentina e Uruguai)",
+        "url": "https://ich.unesco.org/en/RL/tango-00258"
+      },
+      {
+        "title": "UNESCO — Patrimônio Cultural Imaterial da Argentina",
+        "url": "https://ich.unesco.org/en/state/argentina-AR"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Argentina",
+        "url": "https://www.britannica.com/place/Argentina"
+      }
+    ]
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolívia",
+    "flag": "🇧🇴",
+    "capital": "Sucre (capital constitucional); La Paz é a sede do governo.",
+    "language": "Espanhol e 36 línguas indígenas reconhecidas constitucionalmente, incluindo aimará, quéchua e guarani.",
+    "history": [
+      "O território abriga uma longa história de sociedades indígenas andinas e amazônicas; Tiwanaku foi uma importante civilização pré-colombiana.",
+      "A região foi incorporada ao domínio espanhol no século XVI e tornou-se conhecida pela mineração de prata, especialmente em Potosí.",
+      "A independência foi declarada em 1825, e o país recebeu o nome de Bolívia em homenagem a Simón Bolívar.",
+      "A Constituição de 2009 definiu o país como Estado Plurinacional, reconhecendo sua diversidade cultural e linguística."
+    ],
+    "indigenous_peoples": [
+      "Aimará, com forte presença no altiplano",
+      "Quéchua, presente sobretudo em áreas andinas",
+      "Guarani, especialmente no sudeste do país",
+      "Chiquitano e Mojeño, entre os povos indígenas das terras baixas"
+    ],
+    "gastronomy": [
+      "Salteñas, pastéis assados com recheio suculento",
+      "Sopa de maní, sopa preparada com amendoim",
+      "Pique macho, prato com carne, batatas e outros acompanhamentos",
+      "Anticuchos, espetos grelhados populares em feiras e ruas"
+    ],
+    "sports": [
+      "Futebol, praticado em todo o país",
+      "Futsal, popular em quadras e competições locais",
+      "Raquetebol, modalidade na qual atletas bolivianos têm tradição competitiva",
+      "Ciclismo, praticado em diferentes regiões e terrenos montanhosos"
+    ],
+    "music": [
+      "Huayño, gênero musical andino presente em várias comunidades",
+      "Saya afro-boliviana, expressão musical e comunitária ligada especialmente aos Yungas",
+      "Cueca boliviana, com versões regionais",
+      "Música de bandas de sopro, marcante em festas populares e entradas folclóricas"
+    ],
+    "dances": [
+      "Morenada, dança de grande destaque em festas tradicionais",
+      "Caporales, dança coreografada popular em festividades bolivianas",
+      "Tinku, dança e manifestação cultural associada à região andina",
+      "Pujllay e Ayarichi, músicas e danças da cultura Yampara reconhecidas pela UNESCO"
+    ],
+    "sources": [
+      {
+        "title": "Comunidad Andina — Bolívia: idioma e capital",
+        "url": "https://www.comunidadandina.org/quienes-somos/paises-miembros/bolivia/"
+      },
+      {
+        "title": "Embaixada da Bolívia no Canadá — dados gerais e capital",
+        "url": "https://bolivianembassy.ca/bolivia/el-pais/datos-generales/"
+      },
+      {
+        "title": "UNESCO — Patrimônio Cultural Imaterial da Bolívia",
+        "url": "https://ich.unesco.org/en-state/bolivia-plurinational-state-of-BO"
+      }
+    ]
+  },
+  {
+    "id": "chile",
+    "name": "Chile",
+    "flag": "🇨🇱",
+    "capital": "Santiago",
+    "language": "Espanhol (língua predominante); também são faladas línguas indígenas, como mapudungun, aimará e rapanui.",
+    "history": [
+      "Antes da conquista espanhola, o território era habitado por diversos povos, incluindo comunidades Mapuche e povos do norte andino; Rapa Nui tem história polinésia própria.",
+      "A colonização espanhola começou no século XVI e encontrou resistência prolongada dos Mapuche em parte do território.",
+      "O processo de independência começou em 1810 e a independência foi consolidada em 1818.",
+      "O Chile viveu uma ditadura militar entre 1973 e 1990 e, desde então, mantém um regime democrático."
+    ],
+    "indigenous_peoples": [
+      "Mapuche, com presença histórica no centro-sul do país",
+      "Aymara, sobretudo no norte andino",
+      "Rapa Nui, povo originário da Ilha de Páscoa (Rapa Nui)",
+      "Atacameño/Lickanantay, ligado ao norte do Chile"
+    ],
+    "gastronomy": [
+      "Empanadas de pino, recheadas tradicionalmente com carne, cebola e outros ingredientes",
+      "Pastel de choclo, preparado com milho e recheio salgado",
+      "Curanto, preparação tradicional de frutos do mar, carnes e vegetais, associada a Chiloé",
+      "Sopaipillas, massa frita consumida como lanche"
+    ],
+    "sports": [
+      "Futebol, amplamente praticado e acompanhado",
+      "Tênis, com atletas chilenos de destaque internacional",
+      "Rodeio chileno, esporte tradicional praticado em medialuna",
+      "Surfe, favorecido pela extensa costa do Pacífico"
+    ],
+    "music": [
+      "Cueca, gênero musical associado à dança nacional do Chile",
+      "Tonada, canção folclórica tradicional",
+      "Nueva Canción Chilena, movimento musical de conteúdo social e político do século XX",
+      "Música rapanui, com tradições próprias da Ilha de Páscoa"
+    ],
+    "dances": [
+      "Cueca, considerada a dança nacional do Chile",
+      "Baile chino, tradição ritual com música e dança reconhecida pela UNESCO",
+      "Danças tradicionais rapanui, ligadas à herança cultural polinésia",
+      "Danzas folclóricas do norte andino, com influências indígenas e religiosas"
+    ],
+    "sources": [
+      {
+        "title": "Governo do Chile — Our Country",
+        "url": "https://www.gob.cl/en/our-country/"
+      },
+      {
+        "title": "UNESCO — Patrimônio Cultural Imaterial do Chile",
+        "url": "https://ich.unesco.org/en/state/chile-CL"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Chile",
+        "url": "https://www.britannica.com/place/Chile"
+      }
+    ]
+  },
+  {
+    "id": "colombia",
+    "name": "Colômbia",
+    "flag": "🇨🇴",
+    "capital": "Bogotá",
+    "language": "Espanhol (idioma oficial nacional); línguas indígenas também são oficiais nos territórios onde são faladas.",
+    "history": [
+      "Antes da colonização espanhola, o território era habitado por muitos povos, entre eles os Muisca, Tairona e comunidades dos atuais territórios amazônicos.",
+      "A região foi colonizada pela Espanha e integrou o Vice-Reino de Nova Granada.",
+      "O movimento de independência começou em 1810; a vitória republicana de 1819 levou à formação da Grã-Colômbia, da qual a Colômbia atual emergiu após sua dissolução.",
+      "A história contemporânea inclui conflitos armados internos e processos de paz, além de grande diversidade regional e étnica."
+    ],
+    "indigenous_peoples": [
+      "Wayuu, principalmente na península de La Guajira",
+      "Nasa, sobretudo no sudoeste andino",
+      "Emberá, presente em regiões andinas e do Pacífico",
+      "Kogui, Arhuaco e Wiwa, povos da Sierra Nevada de Santa Marta"
+    ],
+    "gastronomy": [
+      "Arepas, preparadas de maneiras variadas em diferentes regiões",
+      "Ajiaco, sopa associada a Bogotá e à região andina central",
+      "Bandeja paisa, prato tradicional da região de Antioquia",
+      "Sancocho, ensopado com receitas regionais diversas"
+    ],
+    "sports": [
+      "Futebol, um dos esportes mais populares do país",
+      "Ciclismo, com forte tradição em provas de estrada e montanha",
+      "Tejo, jogo tradicional colombiano que envolve lançar discos em um alvo",
+      "Patinação de velocidade, modalidade em que a Colômbia conquistou títulos internacionais"
+    ],
+    "music": [
+      "Cumbia, gênero com influências indígenas, africanas e europeias",
+      "Vallenato, tradição musical do Caribe colombiano",
+      "Bambuco, gênero folclórico associado à região andina",
+      "Champeta, gênero urbano com raízes afro-caribenhas, especialmente em Cartagena"
+    ],
+    "dances": [
+      "Cumbia, música e dança de casal ou em grupo",
+      "Mapalé, dança afro-colombiana da região caribenha",
+      "Bambuco, dança folclórica andina",
+      "Currulao, manifestação musical e dançante afro-colombiana do Pacífico"
+    ],
+    "sources": [
+      {
+        "title": "Organização dos Estados Americanos — cultura e línguas da Colômbia",
+        "url": "https://www.oas.org/en/sedi/desd/stm/2017/about-co.asp"
+      },
+      {
+        "title": "UNESCO — Patrimônio Cultural Imaterial na Colômbia",
+        "url": "https://ich.unesco.org/en/lists?display=maps&domain=02"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Colombia",
+        "url": "https://www.britannica.com/place/Colombia"
+      }
+    ]
+  },
+  {
+    "id": "equador",
+    "name": "Equador",
+    "flag": "🇪🇨",
+    "capital": "Quito",
+    "language": "Espanhol (idioma oficial); kichwa e shuar são reconhecidos para relações interculturais, e outras línguas ancestrais são usadas por comunidades indígenas.",
+    "history": [
+      "O território foi habitado por numerosas sociedades indígenas e, antes da chegada espanhola, partes dele foram incorporadas ao Império Inca.",
+      "A conquista e a colonização espanhola ocorreram no século XVI; Quito tornou-se um importante centro colonial.",
+      "Quito declarou independência em 1809, e a região foi libertada do domínio espanhol após a Batalha de Pichincha, em 1822.",
+      "O Equador integrou a Grã-Colômbia e tornou-se uma república independente em 1830."
+    ],
+    "indigenous_peoples": [
+      "Kichwa, com comunidades em regiões andinas e amazônicas",
+      "Shuar, principalmente na Amazônia equatoriana",
+      "Achuar, povo da região amazônica",
+      "Waorani, povo indígena da Amazônia equatoriana"
+    ],
+    "gastronomy": [
+      "Encebollado, sopa de peixe geralmente preparada com mandioca e cebola roxa",
+      "Locro de papa, sopa de batata tradicional dos Andes equatorianos",
+      "Llapingachos, bolinhos de batata recheados ou acompanhados de queijo e outros alimentos",
+      "Ceviche equatoriano, com preparações regionais de peixe ou frutos do mar"
+    ],
+    "sports": [
+      "Futebol, esporte de grande popularidade nacional",
+      "Ecuavóley, variante equatoriana do voleibol tradicionalmente jogada em equipes de três",
+      "Ciclismo, com destaque para provas de estrada e montanha",
+      "Surfe, praticado em cidades costeiras como Montañita"
+    ],
+    "music": [
+      "Pasillo, gênero de canção e poesia reconhecido pela UNESCO como patrimônio cultural imaterial",
+      "Sanjuanito, gênero musical andino associado a festas e celebrações",
+      "Bomba del Chota, tradição musical afro-equatoriana",
+      "Albazo, estilo de música tradicional tocado em festividades"
+    ],
+    "dances": [
+      "Pasillo, que também possui forma de dança de casal",
+      "Sanjuanito, dança tradicional de origem andina",
+      "Yumbo, dança e manifestação folclórica ligada a tradições indígenas",
+      "Danças afro-equatorianas da região de Esmeraldas, com percussão e canto comunitário"
+    ],
+    "sources": [
+      {
+        "title": "Ecuador Travel — culturas ancestrais vivas",
+        "url": "https://ecuador.travel/cultura/"
+      },
+      {
+        "title": "UNESCO — Pasillo, song and poetry",
+        "url": "https://ich.unesco.org/en/RL/pasillo-song-and-poetry-01702"
+      },
+      {
+        "title": "Censo Ecuador — línguas e povos indígenas",
+        "url": "https://www.censoecuador.gob.ec/public/Boletin_Nacional.htm"
+      }
+    ]
+  },
+  {
+    "id": "guiana",
+    "name": "Guiana",
+    "flag": "🇬🇾",
+    "capital": "Georgetown",
+    "language": "Inglês (idioma oficial); o crioulo guianense é amplamente falado, e comunidades indígenas mantêm suas próprias línguas.",
+    "history": [
+      "O território era habitado por povos indígenas, incluindo comunidades Arawak e Carib, antes da colonização europeia.",
+      "A região teve colônias neerlandesas e passou ao controle britânico; plantações utilizaram trabalho escravizado africano.",
+      "Após a abolição da escravidão, trabalhadores contratados, sobretudo do sul da Ásia, também contribuíram para a formação multicultural do país.",
+      "A Guiana conquistou independência do Reino Unido em 1966 e tornou-se república em 1970."
+    ],
+    "indigenous_peoples": [
+      "Lokono (Arawak), com comunidades no litoral e em outras regiões",
+      "Wapishana, sobretudo no sul",
+      "Macushi, presentes em áreas de savana e fronteira com o Brasil",
+      "Patamona e Akawaio, entre os povos indígenas do interior"
+    ],
+    "gastronomy": [
+      "Pepperpot, ensopado de carne temperado, tradicionalmente associado ao Natal",
+      "Cook-up rice, prato de arroz cozido com feijões, carnes ou peixe e temperos",
+      "Metemgee, preparação com tubérculos, banana e leite de coco",
+      "Roti e curry, reflexo da influência indo-guianense"
+    ],
+    "sports": [
+      "Críquete, esporte de enorme popularidade e parte da tradição caribenha do país",
+      "Futebol, praticado em todo o território",
+      "Atletismo, presente em escolas e competições regionais",
+      "Basquete, praticado especialmente em áreas urbanas"
+    ],
+    "music": [
+      "Chutney, gênero com raízes indo-caribenhas",
+      "Calypso e soca, estilos populares da região caribenha",
+      "Música tradicional ameríndia, com cantos e instrumentos próprios de cada povo",
+      "Gospel e reggae, também presentes na diversidade musical guianense"
+    ],
+    "dances": [
+      "Chutney dance, ligada às tradições indo-guianenses",
+      "Dança de masquerade, manifestação festiva de raízes afro-guianenses",
+      "Danças tradicionais ameríndias, que variam entre os povos e comunidades",
+      "Danças caribenhas de salão e de festa, acompanhadas por calypso e soca"
+    ],
+    "sources": [
+      {
+        "title": "Embaixada da Guiana — About Guyana (língua e sociedade)",
+        "url": "https://guyanaembassyqatar.gov.gy/about-guyana/"
+      },
+      {
+        "title": "Guyana Lands and Surveys Commission — línguas faladas",
+        "url": "https://factpage.glsc.gov.gy/basics/language-spoken/"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Guyana",
+        "url": "https://www.britannica.com/place/Guyana"
+      }
+    ]
+  },
+  {
+    "id": "paraguai",
+    "name": "Paraguai",
+    "flag": "🇵🇾",
+    "capital": "Assunção",
+    "language": "Espanhol e guarani são os idiomas oficiais; o guarani é amplamente usado no cotidiano e é uma parte importante da identidade nacional.",
+    "history": [
+      "Antes da colonização, o território era habitado por povos indígenas, incluindo diferentes grupos Guarani.",
+      "A Espanha colonizou a região; Assunção foi fundada em 1537 e tornou-se um centro importante da colonização espanhola na bacia do Rio da Prata.",
+      "O Paraguai declarou independência em 1811.",
+      "A Guerra da Tríplice Aliança (1864–1870) provocou perdas humanas e materiais devastadoras; o país também viveu uma ditadura que terminou em 1989."
+    ],
+    "indigenous_peoples": [
+      "Ava Guarani, um dos povos Guarani do país",
+      "Mbyá Guarani, com comunidades em diferentes regiões",
+      "Paĩ Tavyterã, povo da família linguística Guarani",
+      "Nivaclé e Enxet, povos indígenas especialmente associados à região ocidental do Chaco"
+    ],
+    "gastronomy": [
+      "Sopa paraguaya, bolo salgado de milho, queijo e cebola; apesar do nome, não é uma sopa líquida",
+      "Chipa, pão tradicional feito com polvilho ou amido de mandioca e queijo",
+      "Vori-vori, caldo com bolinhas de farinha de milho e queijo",
+      "Mbejú, preparação tradicional à base de amido de mandioca e queijo"
+    ],
+    "sports": [
+      "Futebol, o esporte mais popular do país",
+      "Futsal, praticado em clubes e competições internacionais",
+      "Voleibol, com presença em escolas e competições nacionais",
+      "Rugby, modalidade praticada por clubes paraguaios"
+    ],
+    "music": [
+      "Polca paraguaia, gênero musical tradicional com ritmos próprios",
+      "Guarania, gênero criado por José Asunción Flores no século XX",
+      "Harpa paraguaia, instrumento emblemático da música tradicional",
+      "Música folclórica frequentemente combina letras em espanhol e guarani"
+    ],
+    "dances": [
+      "Polca paraguaia, dança tradicional de casais",
+      "Galopa, dança folclórica presente em celebrações populares",
+      "Dança da garrafa, na qual dançarinas equilibram garrafas na cabeça",
+      "Dança tradicional ao som de harpa e violão em festas comunitárias"
+    ],
+    "sources": [
+      {
+        "title": "Secretaria Nacional de Cultura do Paraguai — Polca",
+        "url": "https://cultura.gov.py/2025/09/polka/"
+      },
+      {
+        "title": "Minority Rights Group — Paraguay (povos e idiomas indígenas)",
+        "url": "https://minorityrights.org/country/paraguay/"
+      },
+      {
+        "title": "Instituto Nacional de Estadística do Paraguai — diversidade linguística",
+        "url": "https://www.ine.gov.py/noticias/2298/dia-internacional-de-la-lengua-"
+      }
+    ]
+  },
+  {
+    "id": "peru",
+    "name": "Peru",
+    "flag": "🇵🇪",
+    "capital": "Lima",
+    "language": "Espanhol (idioma oficial); quéchua, aimará e outras línguas indígenas também têm reconhecimento oficial nas áreas em que predominam.",
+    "history": [
+      "O território peruano foi lar de antigas sociedades, incluindo Caral, e de culturas como Moche, Nazca e Wari.",
+      "O Império Inca estabeleceu seu centro político em Cusco antes da conquista espanhola no século XVI.",
+      "A independência foi proclamada por José de San Martín em 1821 e consolidada militarmente em 1824.",
+      "A cultura peruana combina tradições indígenas andinas e amazônicas com influências espanholas, africanas e asiáticas."
+    ],
+    "indigenous_peoples": [
+      "Quéchua, presente em numerosas comunidades andinas",
+      "Aimará, especialmente no sul andino, perto do lago Titicaca",
+      "Asháninka, um dos povos indígenas da Amazônia peruana",
+      "Shipibo-Konibo, povo indígena da Amazônia associado à bacia do rio Ucayali"
+    ],
+    "gastronomy": [
+      "Ceviche, preparado com peixe ou frutos do mar e temperos cítricos",
+      "Lomo saltado, prato que combina técnicas e ingredientes chineses-peruanos",
+      "Pachamanca, alimentos cozidos com pedras quentes em forno subterrâneo",
+      "Ají de gallina, preparação cremosa de frango com ají e outros ingredientes"
+    ],
+    "sports": [
+      "Futebol, esporte de grande popularidade nacional",
+      "Voleibol, com tradição importante no esporte feminino",
+      "Surfe, favorecido pela extensa costa do Pacífico",
+      "Paleta frontón, esporte de raquete criado no Peru"
+    ],
+    "music": [
+      "Huayno, gênero musical andino cantado em diferentes línguas e variantes regionais",
+      "Música criolla, com gêneros como vals peruano e festejo afro-peruano",
+      "Marinera, tradição musical e dançante de forte identidade peruana",
+      "Harawi/yaraví, formas tradicionais de canto poético andino"
+    ],
+    "dances": [
+      "Marinera, dança de casal com lenços e diferentes variantes regionais",
+      "Huayno, música e dança tradicional andina",
+      "Dança das tesouras, prática ritual e artística andina reconhecida pela UNESCO",
+      "Festejo, dança afro-peruana acompanhada por percussão e canto"
+    ],
+    "sources": [
+      {
+        "title": "Peru Travel — visão geral do país e idiomas",
+        "url": "https://www.peru.travel/about-peru/general-overview"
+      },
+      {
+        "title": "Peru Travel — línguas do Peru",
+        "url": "https://www.peru.travel/yourperfectperu/about-peru/language"
+      },
+      {
+        "title": "Smithsonian Institution — The Languages of Peru",
+        "url": "https://www.si.edu/object/languages-peru%3Aposts_0b643670254846ff614e03d732d32e07"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Peru",
+        "url": "https://www.britannica.com/place/Peru"
+      }
+    ]
+  },
+  {
+    "id": "uruguai",
+    "name": "Uruguai",
+    "flag": "🇺🇾",
+    "capital": "Montevidéu",
+    "language": "Espanhol (língua predominante); na fronteira com o Brasil também há variedades de português, conhecidas como português uruguaio ou portunhol riverense.",
+    "history": [
+      "O território foi habitado por povos indígenas, incluindo Charrúa, Chaná e Guarani, antes e durante a colonização europeia.",
+      "A região foi disputada por Espanha e Portugal e ficou conhecida como Banda Oriental.",
+      "A independência foi declarada em 1825, e o Uruguai tornou-se um Estado independente após conflitos regionais; sua primeira Constituição entrou em vigor em 1830.",
+      "O país viveu uma ditadura civil-militar entre 1973 e 1985 e depois retomou a democracia."
+    ],
+    "indigenous_peoples": [
+      "Charrúa, povo historicamente associado ao atual território uruguaio",
+      "Chaná, povo indígena da região dos rios Paraná e Uruguai",
+      "Guarani, presente historicamente na região e em áreas de fronteira",
+      "A história indígena uruguaia inclui descendentes e movimentos contemporâneos de recuperação identitária"
+    ],
+    "gastronomy": [
+      "Asado, churrasco preparado em grelha ou fogo",
+      "Chivito, sanduíche recheado com carne e diversos acompanhamentos",
+      "Tortas fritas, massa frita tradicionalmente consumida em dias chuvosos",
+      "Dulce de leche e mate, presentes nos hábitos alimentares cotidianos"
+    ],
+    "sports": [
+      "Futebol, com uma história internacional importante para o país",
+      "Basquete, praticado em clubes e competições nacionais",
+      "Rúgbi, com seleções e clubes ativos",
+      "Remo e ciclismo, praticados em clubes e eventos esportivos"
+    ],
+    "music": [
+      "Candombe, tradição musical afro-uruguaia marcada por tambores",
+      "Tango, patrimônio cultural compartilhado com a Argentina",
+      "Murga, forma de teatro musical e canto satírico ligada ao Carnaval",
+      "Milonga, gênero musical e dançante da região do Rio da Prata"
+    ],
+    "dances": [
+      "Candombe, música, dança e desfile associados às comunidades afro-uruguaias",
+      "Tango, desenvolvido culturalmente em Buenos Aires e Montevidéu",
+      "Pericón nacional, dança folclórica de grupo",
+      "Dança e performance ligadas às murgas durante o Carnaval"
+    ],
+    "sources": [
+      {
+        "title": "Uruguay Natural — Ministério do Turismo: música",
+        "url": "https://uruguaynatural.com/pt/muitomaisdoqueumpais/musica/"
+      },
+      {
+        "title": "UNESCO — Tango (Argentina e Uruguai)",
+        "url": "https://ich.unesco.org/en/RL/tango-00258"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Uruguay",
+        "url": "https://www.britannica.com/place/Uruguay"
+      }
+    ]
+  },
+  {
+    "id": "suriname",
+    "name": "Suriname",
+    "flag": "🇸🇷",
+    "capital": "Paramaribo",
+    "language": "Neerlandês (idioma oficial); Sranan Tongo é uma língua franca amplamente usada, além de línguas hindustanis, javanesas, indígenas e quilombolas.",
+    "history": [
+      "Antes da colonização europeia, a região era habitada por povos indígenas, incluindo grupos Kalina e Lokono.",
+      "O território foi colonizado por europeus e passou ao domínio neerlandês; as plantações utilizaram trabalho escravizado de africanos.",
+      "Comunidades Maroon descendem de africanos escravizados que escaparam das plantações e construíram comunidades autônomas no interior.",
+      "Após a abolição da escravidão, trabalhadores contratados da Índia e de Java também contribuíram para a sociedade multicultural; o Suriname conquistou independência em 1975."
+    ],
+    "indigenous_peoples": [
+      "Lokono (Arawak), um dos povos indígenas do litoral e do interior",
+      "Kalina (Carib), povo indígena presente no norte do país",
+      "Trio, povo indígena do sul do Suriname",
+      "Wayana, povo indígena que vive em regiões próximas às fronteiras com Guiana Francesa e Brasil"
+    ],
+    "gastronomy": [
+      "Pom, prato assado de origem crioula feito com tubérculo chamado pomtajer e geralmente frango",
+      "Roti com curry, reflexo da influência sul-asiática",
+      "Saoto, sopa com influências javanesas",
+      "Moksi alesi, prato de arroz misturado com diferentes ingredientes, carnes ou peixe"
+    ],
+    "sports": [
+      "Futebol, modalidade popular e importante para a comunidade esportiva do país",
+      "Basquete, praticado em escolas e clubes",
+      "Críquete, presente em comunidades com raízes sul-asiáticas e na região caribenha",
+      "Badminton, modalidade em que o Suriname tem participação regional"
+    ],
+    "music": [
+      "Kaseko, gênero musical urbano desenvolvido no Suriname com influências africanas, caribenhas e europeias",
+      "Kawina, tradição musical afro-surinamesa",
+      "Aleke, gênero musical associado a comunidades Maroon",
+      "Música hindustani e javanesa, presente nas comunidades de origem sul-asiática e indonésia"
+    ],
+    "dances": [
+      "Danças tradicionais Maroon, com música e movimentos próprios das comunidades",
+      "Dança ao som de kaseko, comum em festas e celebrações",
+      "Danças javanesas e sul-asiáticas mantidas por comunidades e grupos culturais",
+      "Danças e celebrações indígenas que variam conforme cada povo e região"
+    ],
+    "sources": [
+      {
+        "title": "Nações Unidas no Suriname — Country Facts",
+        "url": "https://www.un.int/suriname/suriname/country-facts"
+      },
+      {
+        "title": "Minority Rights Group — Suriname (povos e idiomas)",
+        "url": "https://minorityrights.org/country/suriname/"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Suriname",
+        "url": "https://www.britannica.com/place/Suriname"
+      }
+    ]
+  },
+  {
+    "id": "venezuela",
+    "name": "Venezuela",
+    "flag": "🇻🇪",
+    "capital": "Caracas",
+    "language": "Espanhol (idioma oficial); as línguas indígenas também são reconhecidas para uso oficial pelos povos indígenas.",
+    "history": [
+      "O território era habitado por diversos povos indígenas antes da colonização espanhola.",
+      "A independência foi declarada em 1811, e Simón Bolívar teve papel central nas guerras de independência sul-americanas.",
+      "A Venezuela integrou a Grã-Colômbia e tornou-se um Estado separado em 1830.",
+      "A exploração petrolífera transformou a economia no século XX; a sociedade contemporânea combina culturas indígenas, afro-venezuelanas, europeias e regionais."
+    ],
+    "indigenous_peoples": [
+      "Wayuu, sobretudo na região de Zulia e na península de La Guajira",
+      "Warao, associados ao delta do Orinoco",
+      "Pemón, presentes na região da Gran Sabana",
+      "Yanomami, que vivem na região amazônica próxima à fronteira com o Brasil"
+    ],
+    "gastronomy": [
+      "Arepa, pão redondo de milho consumido com diferentes recheios",
+      "Pabellón criollo, prato com carne desfiada, feijão preto, arroz e banana-da-terra frita",
+      "Hallaca, preparação festiva de massa de milho recheada e cozida envolta em folhas",
+      "Cachapa, panqueca de milho fresco normalmente servida com queijo"
+    ],
+    "sports": [
+      "Beisebol, esporte muito popular no país",
+      "Futebol, cuja popularidade cresceu significativamente nas últimas décadas",
+      "Basquete, praticado em clubes e seleções nacionais",
+      "Boxe, modalidade com tradição olímpica e profissional venezuelana"
+    ],
+    "music": [
+      "Joropo, tradição de música, poesia, canto e dança de diferentes regiões venezuelanas",
+      "Gaita zuliana, gênero musical associado ao estado de Zulia e às festas de fim de ano",
+      "Calipso de El Callao, ligado à história cultural afro-caribenha da região de Bolívar",
+      "Música llanera, com instrumentos como harpa, cuatro e maracas"
+    ],
+    "dances": [
+      "Joropo, dança de casal associada aos Llanos e a outras regiões do país",
+      "Calipso de El Callao, acompanhado por danças e desfiles festivos",
+      "Tamunangue, tradição musical, dançante e ritual do estado de Lara",
+      "Danzas tradicionais indígenas, diversas conforme o povo e o território"
+    ],
+    "sources": [
+      {
+        "title": "UNESCO — Joropo na Venezuela (inscrito em 2025)",
+        "url": "https://ich.unesco.org/en/RL/joropo-in-venezuela-02092"
+      },
+      {
+        "title": "UNESCO — perfil sobre línguas e povos indígenas da Venezuela",
+        "url": "https://gem-report-education-profiles.unesco.org/latin-america-and-the-caribbean/venezuela-bolivarian-republic-of/_inclusion.html"
+      },
+      {
+        "title": "Encyclopaedia Britannica — Venezuela",
+        "url": "https://www.britannica.com/place/Venezuela"
+      }
+    ]
+  }
+]

@@ -1,0 +1,112 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta
+        name="description"
+        content="Explore a história e a diversidade cultural da América do Sul."
+    >
+
+    <title>Raízes Sul-Americanas</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <script src="/static/js/app.js" defer></script>
+</head>
+
+<body>
+    <header class="site-header">
+        <a href="#inicio" class="logo">
+            <img
+                src="/static/images/logo-queen.png"
+                alt="Logo do Centro Educacional Queen"
+                class="logo-image"
+            >
+            <span>Raízes Sul-Americanas</span>
+        </a>
+
+        <nav aria-label="Navegação principal">
+            <a href="#inicio">Início</a>
+            <a href="#paises">Países</a>
+            <a href="#depoimentos">Depoimentos</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="inicio" class="hero">
+            <p class="eyebrow">Cultura • História • Identidade</p>
+
+            <h1>Um continente, infinitas culturas.</h1>
+
+            <p>
+                Descubra os povos, idiomas, sabores, músicas e tradições
+                que fazem da América do Sul um continente diverso.
+            </p>
+
+            <a href="#paises" class="button">Explorar países</a>
+        </section>
+
+        <section id="paises" class="section">
+            <h2>Explore os países</h2>
+            <p>Selecione um país para conhecer sua cultura.</p>
+
+            <label for="country-search">Pesquisar país</label>
+            <input
+                id="country-search"
+                type="search"
+                placeholder="Ex.: Brasil, Peru..."
+            >
+
+            <div id="country-list" class="country-grid">
+                <p>Carregando países...</p>
+            </div>
+        </section>
+
+        <section id="cultura" class="section">
+            <div id="country-details" aria-live="polite">
+                <h2>Conheça as culturas sul-americanas</h2>
+                <p>Selecione um país acima para visualizar os detalhes.</p>
+            </div>
+        </section>
+        
+        
+<section id="depoimentos" class="section">
+    <h2>Vozes da América do Sul</h2>
+
+    <p>
+        Conheça a vida cotidiana, os costumes e as tradições
+        paraguaias através do relato de uma pessoa que vive no país.
+    </p>
+
+    <article class="testimonial">
+        <h3>Vivendo no Paraguai 🇵🇾</h3>
+
+        <p>
+            Um relato pessoal sobre a cultura, o cotidiano e as
+            experiências de viver no Paraguai.
+        </p>
+
+        <video controls preload="metadata">
+            <source
+                src="/static/videos/depoimento-paraguai.mp4"
+                type="video/mp4"
+            >
+            Seu navegador não suporta a reprodução de vídeos.
+        </video>
+
+        <p class="video-caption">
+            Depoimento de uma moradora paraguaia.
+        </p>
+    </article>
+</section>
+
+
+    </main>
+
+    <footer>
+        <p>Criado por Davi Dias de Souza.</p>
+        <p>&copy; 2026 CENTRO EDUCACIONAL QUEEN.</p>
+    </footer>
+</body>
+</html>
